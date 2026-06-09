@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "noviprojetkazil", "noviprojetkazil.csproj", "{CC919A08-F547-45B0-BC56-11D8C1F7F582}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azilzivotinjePetar", "..\Projekt-Azil-ivotnije11\Projekt-AzilŽivotnije\azilzivotinjePetar.csproj", "{EE027871-A4C7-46E1-9F55-66AAAB2444B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CC919A08-F547-45B0-BC56-11D8C1F7F582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC919A08-F547-45B0-BC56-11D8C1F7F582}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC919A08-F547-45B0-BC56-11D8C1F7F582}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC919A08-F547-45B0-BC56-11D8C1F7F582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE027871-A4C7-46E1-9F55-66AAAB2444B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE027871-A4C7-46E1-9F55-66AAAB2444B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE027871-A4C7-46E1-9F55-66AAAB2444B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE027871-A4C7-46E1-9F55-66AAAB2444B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
